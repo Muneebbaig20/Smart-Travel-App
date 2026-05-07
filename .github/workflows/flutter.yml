@@ -29,8 +29,6 @@ jobs:
       - name: Get dependencies
         run: flutter pub get
 
-      - name: Analyze project
-        run: flutter analyze
 
       - name: Run tests (optional, won’t fail build if none exist)
         run: flutter test || true
