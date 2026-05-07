@@ -86,16 +86,6 @@ flutter build web --release
 flutter build windows --release
 ```
 
-## 📦 Dependencies
-
-| Package | Version | Purpose |
-|---------|---------|---------|
-| `flutter` | sdk | Core Flutter framework |
-| `cupertino_icons` | ^1.0.8 | iOS-style icons |
-| `shared_preferences` | ^2.5.5 | Local data persistence |
-| `http` | ^1.6.0 | HTTP requests for APIs |
-| `provider` | ^6.1.5+1 | State management |
-| `google_fonts` | ^8.1.0 | Custom fonts |
 
 ## 📖 Project Structure Explanation
 
