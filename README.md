@@ -30,17 +30,6 @@ lib/
 └── main.dart
 ```
 
-## 🛠️ Technology Stack
-
-- **Framework**: Flutter
-- **Language**: Dart
-- **State Management**: Provider (v6.1.5+1)
-- **HTTP**: http (v1.6.0)
-- **Local Storage**: shared_preferences (v2.5.5)
-- **Fonts**: google_fonts (v8.1.0)
-- **Icons**: cupertino_icons (v1.0.8)
-
-
 ## 🚀 Getting Started
 
 ### 1. Clone or Extract the Project
